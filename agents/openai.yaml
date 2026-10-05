@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Thread Coordination"
+  short_description: "Connect live Codex threads with verified handoffs"
+  default_prompt: "Use $codex-thread-coordination to coordinate a focused handoff with another existing Codex session."

@@ -1,0 +1,2 @@
+# Optional local recovery helper only.
+websockets>=14,<16
